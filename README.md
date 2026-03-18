@@ -1,4 +1,3 @@
-# student_dashboard
 # 📚 Student Attendance Viewer
 
 A modern React web application for tracking and visualizing student attendance data with real-time filtering, powerful search capabilities, and interactive charts.
